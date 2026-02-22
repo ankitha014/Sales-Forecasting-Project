@@ -82,16 +82,16 @@ The model predicts sales for the test dataset and compares actual vs predicted v
 ## 📊 Sample Visualizations
 
 ### Sales Over Time
-![Sales Trend](images/sales_trend.png)
+![Sales Trend](sales_trend.png)
 
 ### Rolling Mean Trend
-![Rolling Mean](images/rolling_mean.png)
+![Rolling Mean](rolling_mean.png)
 
 ### Actual vs Predicted
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](actual_vs_predicted.png)
 
 ### Future 6-Month Forecast
-![Future Forecast](images/future_forecast.png)
+![Future Forecast](future_forecast.png)
 
 ---
 
